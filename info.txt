@@ -1,2 +1,10 @@
 https://www.youtube.com/watch?v=EyIvuigqDoA
 duration : 13:38 / 2:12:07
+
+
+
+cloudinary.config({
+  cloud_name: "dsoxi7ojl",
+  api_key: "913633653182127",
+  api_secret: "rb1GrlTnNg_886clmMqLikZ5IT0"
+});
